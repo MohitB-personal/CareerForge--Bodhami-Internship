@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 72" fill="none" role="img" aria-label="CareerForge">
+  <!-- CareerForge "CF" monogram -->
+  <g stroke="#5648e6" fill="none">
+    <!-- C -->
+    <path d="M45.4 52.9 A20 20 0 1 1 45.4 23.1" stroke-width="14"/>
+    <!-- Wave flowing out of the C into the F -->
+    <path d="M45.5 24 C55 11 67 9 76 14 C80.5 16.5 83 19.5 84 24" stroke-width="13"/>
+    <!-- F stem with bottom-left curl -->
+    <path d="M84 16 L84 51 C84 59 78.5 62.5 71 61.5" stroke-width="13"/>
+    <!-- F top arm -->
+    <path d="M80 12 L107 12" stroke-width="13"/>
+    <!-- F middle arm -->
+    <path d="M84 40 L98.5 40" stroke-width="12"/>
+  </g>
+</svg>
